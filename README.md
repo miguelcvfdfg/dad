@@ -1,2 +1,0 @@
-# dad
-aim bot
